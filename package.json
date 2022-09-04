@@ -1,0 +1,23 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Simple landing page applying concepts of Async",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhduartea/async-landing.git"
+  },
+  "keywords": [
+    "async",
+    "landing"
+  ],
+  "author": "David Duarte <dhduartea@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhduartea/async-landing/issues"
+  },
+  "homepage": "https://github.com/dhduartea/async-landing#readme"
+}

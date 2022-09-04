@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dhduartea/async-landing/issues"
   },
-  "homepage": "https://github.com/dhduartea/async-landing#readme"
+  "homepage": "https://github.com/dhduartea/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
